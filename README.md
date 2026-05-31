@@ -46,6 +46,13 @@ This project focuses on cleaning and standardizing a messy layoffs dataset conta
 
 ## 📁 Project Structure
 
+Sql-Project/
+
+├── sql project.sql              # Complete SQL cleaning script
+
+└── layoffs.csv                  # Raw dataset
+
+
 
 ## 🚀 How to Run
 
